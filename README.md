@@ -7,4 +7,4 @@ This is a silly CLI tool that prints a random anime-style ASCII waifu in your co
 ## Installation
 
 ```bash
-pip install .
+pip install waifux
